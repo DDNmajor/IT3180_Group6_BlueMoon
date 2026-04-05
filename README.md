@@ -13,7 +13,7 @@ Phần mềm quản lý thu phí chung cư BlueMoon - Môn Nhập môn CNPM IT31
 | Lê Quang Huy | ... | Product Owner | @DDNmajor |
 | Trần Thị Nhật Linh | ... | Developer | @... |
 | Đoàn Văn Thắng | ... | Developer | @... |
-| Đặng Hải Đăng | ... | Developer | @... |
+| Đặng Hải Đăng | ... | Developer | @danghaidang04 |
 
 ## 📌 Mô tả dự án
 
